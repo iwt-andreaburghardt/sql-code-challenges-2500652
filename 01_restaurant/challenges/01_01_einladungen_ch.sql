@@ -3,4 +3,4 @@
 -- und die E-Mail-Adresse der Kundinnen/Kunden enthalten.
 -- Sortieren Sie die Liste alphabetisch nach den Nachnamen.
 
-
+select Vorname, Nachname, Email from Kunden order by Nachname
